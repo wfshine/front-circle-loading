@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2017/3/6.
- */
 /*圆环进度条插件*/
 var circleProgress=function(options){
   var defaultOptions={
